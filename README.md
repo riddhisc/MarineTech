@@ -1,0 +1,1 @@
+# Marine Tech website\n\nStatic site for GitHub Pages. `CNAME` holds the custom domain `marinetech.co.in`.\n\n**Contact form:** get a free access key at https://web3forms.com (enter services@marinetech.co.in), then replace `YOUR_ACCESS_KEY_HERE` in `contact.html`. Until then the form opens the visitor's e-mail app.\n
